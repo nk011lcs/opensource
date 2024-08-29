@@ -1,0 +1,14 @@
+22:19:03.900 [main] INFO io.github.t45k.nil.NILMain - Start
+22:20:23.252 [main] INFO io.github.t45k.nil.NILMain - 1977024 code blocks have been extracted.
+22:22:09.720 [RxComputationThreadPool-6] INFO io.github.t45k.nil.NILMain - Partition 6: Index creation has been completed.
+22:22:10.062 [RxComputationThreadPool-9] INFO io.github.t45k.nil.NILMain - Partition 9: Index creation has been completed.
+22:22:12.172 [RxComputationThreadPool-3] INFO io.github.t45k.nil.NILMain - Partition 3: Index creation has been completed.
+22:22:12.220 [RxComputationThreadPool-4] INFO io.github.t45k.nil.NILMain - Partition 4: Index creation has been completed.
+22:22:12.528 [RxComputationThreadPool-10] INFO io.github.t45k.nil.NILMain - Partition 10: Index creation has been completed.
+22:22:12.530 [RxComputationThreadPool-1] INFO io.github.t45k.nil.NILMain - Partition 1: Index creation has been completed.
+22:22:12.757 [RxComputationThreadPool-2] INFO io.github.t45k.nil.NILMain - Partition 2: Index creation has been completed.
+22:22:14.101 [RxComputationThreadPool-7] INFO io.github.t45k.nil.NILMain - Partition 7: Index creation has been completed.
+22:22:14.169 [RxComputationThreadPool-5] INFO io.github.t45k.nil.NILMain - Partition 5: Index creation has been completed.
+22:22:51.015 [RxComputationThreadPool-8] INFO io.github.t45k.nil.NILMain - Partition 8: Index creation has been completed.
+01:08:38.256 [main] INFO io.github.t45k.nil.NILMain - End
+01:08:38.292 [main] INFO io.github.t45k.nil.NILMain - time: 2h49m34s
